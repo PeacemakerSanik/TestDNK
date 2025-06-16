@@ -13,3 +13,5 @@ https://test-dnktech.ddns.net - pgAdmin (http://10.42.2.73)
 http://test-dnktech.ddns.net:31471 - Redmine (http://10.42.1.137:3000)
 
 Grafana http://10.42.0.209:3000 admin password: prom-operator
+
+![image](https://github.com/user-attachments/assets/1c31baff-61fe-4fbe-8f02-56b35c6e2b0d)
